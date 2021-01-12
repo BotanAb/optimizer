@@ -1,0 +1,4 @@
+---Training performance---
+---Testing performance---
+Loss: 1.12
+Accuracy: 74.19%
